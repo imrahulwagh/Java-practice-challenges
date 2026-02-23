@@ -1,8 +1,5 @@
 // 21. Create a program that shows bitwise AND of two numbers.
-package Practice;
-
 import java.util.Scanner;
-
 public class CH21 {
 	public static void main(String[] args)
 	{
@@ -16,4 +13,5 @@ public class CH21 {
 		sc.close();
 	}
 }
+
 
