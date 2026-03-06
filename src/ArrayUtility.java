@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class ArrayUtility {
+    static Scanner sc = new Scanner(System.in);
     public static int[] inputArray(){
-        Scanner sc = new Scanner(System.in);
         System.out.print("Enter no. of elements : ");
         int size = sc.nextInt();
         int[] arr = new int[size];
