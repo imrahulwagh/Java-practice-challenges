@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Merged local project with GitHub repo" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3A55GcTPqQHSPIDIDkXaNMDPw9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CH1.executor": "Run",
+    "Application.CH2.executor": "Run",
+    "Application.CH21.executor": "Run",
+    "Application.CH22.executor": "Run",
+    "Application.CH23.executor": "Run",
+    "Application.CH24.executor": "Run",
+    "Application.CH25.executor": "Run",
+    "Application.CH26.executor": "Run",
+    "Application.CH27.executor": "Run",
+    "Application.CH28.executor": "Run",
+    "Application.CH29.executor": "Run",
+    "Application.CH3.executor": "Run",
+    "Application.CH30.executor": "Run",
+    "Application.CH31.executor": "Run",
+    "Application.CH32.executor": "Run",
+    "Application.CH33.executor": "Run",
+    "Application.CH34.executor": "Run",
+    "Application.CH35.executor": "Run",
+    "Application.CH36.executor": "Run",
+    "Application.CH37.executor": "Run",
+    "Application.CH38.executor": "Run",
+    "Application.CH39.executor": "Run",
+    "Application.CH40.executor": "Run",
+    "Application.CH41.executor": "Run",
+    "Application.CH42.executor": "Run",
+    "Application.CH43.executor": "Run",
+    "Application.CH44.executor": "Run",
+    "Application.CH5.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Programs/Java/Intellij/Practice/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CH44">
+    <configuration name="CH41" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH41" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CH42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH42" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CH43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH43" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CH44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH44" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CH44" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CH43" />
+        <item itemvalue="Application.CH42" />
+        <item itemvalue="Application.CH41" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="" />
+      <created>1771869497725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771869497725</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Merged local project with GitHub repo">
+      <option name="closed" value="true" />
+      <created>1772652335768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772652335768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Merged local project with GitHub repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged local project with GitHub repo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CH31.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
