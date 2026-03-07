@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH48 Done">
-      <change afterPath="$PROJECT_DIR$/src/CH49.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH49 Done">
+      <change afterPath="$PROJECT_DIR$/src/CH50.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,9 @@
     "Application.CH44.executor": "Run",
     "Application.CH47.executor": "Run",
     "Application.CH48.executor": "Run",
+    "Application.CH49.executor": "Run",
     "Application.CH5.executor": "Run",
+    "Application.CH50.executor": "Run",
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -95,16 +97,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CH49">
+  <component name="RunManager" selected="Application.CH50">
     <configuration name="CH1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH1" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CH44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH44" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,13 +126,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CH50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH50" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CH50" />
         <item itemvalue="Application.CH49" />
         <item itemvalue="Application.CH48" />
         <item itemvalue="Application.CH47" />
         <item itemvalue="Application.CH1" />
-        <item itemvalue="Application.CH44" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772908672952</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CH49 Done">
+      <option name="closed" value="true" />
+      <created>1772910466908</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772910466908</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -275,7 +285,8 @@
     <MESSAGE value="Challange 47 done" />
     <MESSAGE value="..." />
     <MESSAGE value="CH48 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH48 Done" />
+    <MESSAGE value="CH49 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH49 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
