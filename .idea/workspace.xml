@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Challange 47 done">
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="...">
+      <change afterPath="$PROJECT_DIR$/src/CH48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/ArrayUtility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/ArrayUtility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CH1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CH2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CH42.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CH44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +78,7 @@
     "Application.CH43.executor": "Run",
     "Application.CH44.executor": "Run",
     "Application.CH47.executor": "Run",
+    "Application.CH48.executor": "Run",
     "Application.CH5.executor": "Run",
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -90,6 +88,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -97,16 +96,9 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CH47">
+  <component name="RunManager" selected="Application.CH48">
     <configuration name="CH1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH1" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CH43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH43" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,6 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CH48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH48" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Practice" />
@@ -135,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CH48" />
         <item itemvalue="Application.CH47" />
         <item itemvalue="Application.CH1" />
         <item itemvalue="Application.CH44" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CH43" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772827582802</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="...">
+      <option name="closed" value="true" />
+      <created>1772905906303</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772905906303</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,7 +266,8 @@
     <MESSAGE value="used static Scanner" />
     <MESSAGE value="used enhanced for-each loop" />
     <MESSAGE value="Challange 47 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challange 47 done" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -268,6 +276,11 @@
           <url>file://$PROJECT_DIR$/src/CH31.java</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CH48.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
