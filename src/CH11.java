@@ -1,5 +1,5 @@
 //11.Create a program to calculate the Area of a Triangle.
-//Area of triangle = ½*B*H
+//Area of triangle = Â½*B*H
 import java.util.Scanner;
 import java.io.*;
 public class CH11
@@ -11,7 +11,7 @@ public class CH11
         double base  = sc.nextDouble();
         System.out.print("Enter the height in cms : ");
         double height  = sc.nextDouble();
-        double area = 0.5 * base * height;
+        double area = (base * height)/2;
         System.out.printf("The area of triangle is "+area);
         sc.close();
     }
