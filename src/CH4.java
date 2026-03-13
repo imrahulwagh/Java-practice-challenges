@@ -1,6 +1,7 @@
-public class CH4 {
-    public static void main(String[] args)
-    {
-        System.out.println(" *");
+class CH4 {
+    public static void main(String[] args) {
+        System.out.println("*\n* *\n* * *\n* * * *\n* * * * *");
+        System.out.println("\n\n* * * * *\n* * * *\n* * *\n* *\n*");
+        System.out.println("\n\n        *\n      * *\n    * * *\n  * * * *\n* * * * *");
     }
 }
