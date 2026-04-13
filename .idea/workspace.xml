@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Updating llok up changes" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH50 Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayUtility.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,15 +256,7 @@
       <option name="project" value="LOCAL" />
       <updated>1772911409696</updated>
     </task>
-    <task id="LOCAL-00014" summary="Updating llok up changes">
-      <option name="closed" value="true" />
-      <created>1776083123415</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1776083123415</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,8 +296,7 @@
     <MESSAGE value="CH48 Done" />
     <MESSAGE value="CH49 Done" />
     <MESSAGE value="CH50 Done" />
-    <MESSAGE value="Updating llok up changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updating llok up changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH50 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
