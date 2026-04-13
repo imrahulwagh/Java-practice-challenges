@@ -26,6 +26,7 @@ class ArrayUtility {
                 arr[i][j] = sc.nextInt();
             }
         }
+
         return arr;
     }
     public static void displayArray(int[] arr)
