@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH49 Done">
-      <change afterPath="$PROJECT_DIR$/src/CH50.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Book.executor": "Run",
     "Application.CH1.executor": "Run",
     "Application.CH2.executor": "Run",
     "Application.CH21.executor": "Run",
@@ -93,13 +93,14 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programs/Java/Intellij/Practice",
     "onboarding.tips.debug.path": "D:/Programs/Java/Intellij/Practice/src/Main.java",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CH50">
-    <configuration name="CH1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH1" />
+  <component name="RunManager" selected="Application.Book">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Book" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Book" />
         <item itemvalue="Application.CH50" />
         <item itemvalue="Application.CH49" />
         <item itemvalue="Application.CH48" />
         <item itemvalue="Application.CH47" />
-        <item itemvalue="Application.CH1" />
       </list>
     </recent_temporary>
   </component>
