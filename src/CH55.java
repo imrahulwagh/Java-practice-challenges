@@ -5,7 +5,7 @@ public class CH55 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
         int num = sc.nextInt();
-        int absNumber = num>0 ? num : -(num) ;
+        int absNumber = num>=0 ? num : -(num) ;
         System.out.println("Absolute value is "+absNumber);
         sc.close();
     }
