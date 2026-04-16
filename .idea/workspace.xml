@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH52 done">
-      <change afterPath="$PROJECT_DIR$/src/CH53.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH53 done">
+      <change afterPath="$PROJECT_DIR$/src/CH54.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,59 +46,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.CH1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH22.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH23.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH25.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH27.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH28.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH29.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH30.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH31.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH32.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH33.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH35.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH36.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH37.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH38.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH39.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH40.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH41.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH42.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH44.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH47.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH48.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH49.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH50.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Courses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programs/Java/Intellij/Practice/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CH1.executor": "Run",
+    "Application.CH2.executor": "Run",
+    "Application.CH21.executor": "Run",
+    "Application.CH22.executor": "Run",
+    "Application.CH23.executor": "Run",
+    "Application.CH24.executor": "Run",
+    "Application.CH25.executor": "Run",
+    "Application.CH26.executor": "Run",
+    "Application.CH27.executor": "Run",
+    "Application.CH28.executor": "Run",
+    "Application.CH29.executor": "Run",
+    "Application.CH3.executor": "Run",
+    "Application.CH30.executor": "Run",
+    "Application.CH31.executor": "Run",
+    "Application.CH32.executor": "Run",
+    "Application.CH33.executor": "Run",
+    "Application.CH34.executor": "Run",
+    "Application.CH35.executor": "Run",
+    "Application.CH36.executor": "Run",
+    "Application.CH37.executor": "Run",
+    "Application.CH38.executor": "Run",
+    "Application.CH39.executor": "Run",
+    "Application.CH40.executor": "Run",
+    "Application.CH41.executor": "Run",
+    "Application.CH42.executor": "Run",
+    "Application.CH43.executor": "Run",
+    "Application.CH44.executor": "Run",
+    "Application.CH47.executor": "Run",
+    "Application.CH48.executor": "Run",
+    "Application.CH49.executor": "Run",
+    "Application.CH5.executor": "Run",
+    "Application.CH50.executor": "Run",
+    "Application.CH53.executor": "Run",
+    "Application.CH54.executor": "Run",
+    "Application.Courses.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Programs/Java/Intellij/Practice/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
-  <component name="RunManager" selected="Application.CH53">
+}]]></component>
+  <component name="RunManager">
     <configuration name="CH48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH48" />
       <module name="Practice" />
@@ -272,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776365442048</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="CH53 done">
+      <option name="closed" value="true" />
+      <created>1776367327088</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1776367327088</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,7 +324,8 @@
     <MESSAGE value="CH done" />
     <MESSAGE value="CH51 done" />
     <MESSAGE value="CH52 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH52 done" />
+    <MESSAGE value="CH53 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH53 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
