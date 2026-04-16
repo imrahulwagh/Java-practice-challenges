@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH53 done">
-      <change afterPath="$PROJECT_DIR$/src/CH54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH54 done">
+      <change afterPath="$PROJECT_DIR$/src/CH55.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,7 @@
     "Application.CH50.executor": "Run",
     "Application.CH53.executor": "Run",
     "Application.CH54.executor": "Run",
+    "Application.CH55.executor": "Run",
     "Application.Courses.executor": "Run",
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -282,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776367327088</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="CH54 done">
+      <option name="closed" value="true" />
+      <created>1776367580247</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1776367580247</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -325,7 +333,8 @@
     <MESSAGE value="CH51 done" />
     <MESSAGE value="CH52 done" />
     <MESSAGE value="CH53 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH53 done" />
+    <MESSAGE value="CH54 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH54 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -339,6 +348,11 @@
           <url>file://$PROJECT_DIR$/src/CH48.java</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CH55.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
