@@ -5,11 +5,11 @@ import java.util.Scanner;
 public class CH58 {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
-        System.out.println("---- Welcome to the calculator ! ----\n");
+        System.out.println("---- Welcome to the calculator ! ----");
         System.out.print("Enter first number : ");
-        int first = sc.nextInt();
+        int num1 = sc.nextInt();
         System.out.print("Enter second number : ");
-        int second = sc.nextInt();
+        int num2 = sc.nextInt();
         System.out.println("What operation do you want to perform :");
         System.out.println("1. Addition");
         System.out.println("2. Substraction");
@@ -18,22 +18,15 @@ public class CH58 {
         System.out.println("5. Modulus");
         System.out.print("Enter a number : ");
         int ch = sc.nextInt();
-        switch(ch) {
-            case 1 :
-                System.out.println("Addition is "+(first+second));
-                break;
-            case 2 :
-                System.out.println("Substraction is "+(first-second));
-                break;
-            case 3 :
-                System.out.println("Multiplication is "+(first*second));
-                break;
-            case 4 :
-                System.out.println("Division is "+(first/second));
-                break;
-            case 5 :
-                System.out.println("Modulus is "+(first%second));
-                break;
-        }
+
+        int res = switch(ch){
+            case 1 -> num1 + num2 ;
+            case 2 -> num1 - num2 ;
+            case 3 -> num1 * num2 ;
+            case 4 -> num1 / num2 ;
+            case 5 -> num1 % num2 ;
+            default -> -1 ;
+        };
+        System.out.println("The result is "+res);
     }
 }
