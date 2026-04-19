@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH69 Done">
-      <change afterPath="$PROJECT_DIR$/src/CH70.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH70 Done">
+      <change afterPath="$PROJECT_DIR$/src/CH71.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +101,7 @@
     "Application.CH67.executor": "Run",
     "Application.CH68.executor": "Run",
     "Application.CH69.executor": "Run",
+    "Application.CH71.executor": "Run",
     "Application.Courses.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Student.executor": "Run",
@@ -445,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776595412983</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="CH70 Done">
+      <option name="closed" value="true" />
+      <created>1776627818012</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1776627818013</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,7 +484,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="..." />
     <MESSAGE value="CH48 Done" />
     <MESSAGE value="CH49 Done" />
     <MESSAGE value="CH done" />
@@ -500,7 +508,8 @@
     <MESSAGE value="CH67 Done" />
     <MESSAGE value="CH68 Done" />
     <MESSAGE value="CH69 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH69 Done" />
+    <MESSAGE value="CH70 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH70 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
