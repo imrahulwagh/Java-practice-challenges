@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH61 Done">
-      <change afterPath="$PROJECT_DIR$/src/CH62.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH67 Done">
+      <change afterPath="$PROJECT_DIR$/src/CH68.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +91,12 @@
     "Application.CH60.executor": "Run",
     "Application.CH61.executor": "Run",
     "Application.CH62.executor": "Run",
+    "Application.CH63.executor": "Run",
+    "Application.CH64.executor": "Run",
+    "Application.CH65.executor": "Run",
+    "Application.CH66.executor": "Run",
+    "Application.CH67.executor": "Run",
+    "Application.CH68.executor": "Run",
     "Application.Courses.executor": "Run",
     "Application.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -370,7 +376,55 @@
       <option name="project" value="LOCAL" />
       <updated>1776549334349</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="CH62 Done">
+      <option name="closed" value="true" />
+      <created>1776550843617</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1776550843617</updated>
+    </task>
+    <task id="LOCAL-00028" summary="CH63 Done">
+      <option name="closed" value="true" />
+      <created>1776554413856</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1776554413856</updated>
+    </task>
+    <task id="LOCAL-00029" summary="CH64 Done">
+      <option name="closed" value="true" />
+      <created>1776554425412</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1776554425412</updated>
+    </task>
+    <task id="LOCAL-00030" summary="CH65 Done">
+      <option name="closed" value="true" />
+      <created>1776554434952</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1776554434952</updated>
+    </task>
+    <task id="LOCAL-00031" summary="CH66 Done">
+      <option name="closed" value="true" />
+      <created>1776554444700</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1776554444700</updated>
+    </task>
+    <task id="LOCAL-00032" summary="CH67 Done">
+      <option name="closed" value="true" />
+      <created>1776554455494</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1776554455494</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -400,10 +454,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Merged local project with GitHub repo" />
-    <MESSAGE value="Added file CH47" />
-    <MESSAGE value="Added question statement as comment in the first line" />
-    <MESSAGE value="used static Scanner" />
     <MESSAGE value="used enhanced for-each loop" />
     <MESSAGE value="Challange 47 done" />
     <MESSAGE value="..." />
@@ -423,7 +473,13 @@
     <MESSAGE value="CH59 updated" />
     <MESSAGE value="CH60 Done" />
     <MESSAGE value="CH61 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH61 Done" />
+    <MESSAGE value="CH62 Done" />
+    <MESSAGE value="CH63 Done" />
+    <MESSAGE value="CH64 Done" />
+    <MESSAGE value="CH65 Done" />
+    <MESSAGE value="CH66 Done" />
+    <MESSAGE value="CH67 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="CH67 Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -442,6 +498,11 @@
           <url>file://$PROJECT_DIR$/src/CH55.java</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CH68.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
