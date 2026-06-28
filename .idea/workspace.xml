@@ -4,43 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Challenge 51 revised">
-      <change afterPath="$PROJECT_DIR$/src/CH73.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="New challenges solved in package form.">
+      <change afterPath="$PROJECT_DIR$/src/CH93.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/ArrayUtility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CH41.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH42.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH43.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH44.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH45.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH46.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CH72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +79,7 @@
     "Application.CH42.executor": "Run",
     "Application.CH43.executor": "Run",
     "Application.CH44.executor": "Run",
+    "Application.CH45.executor": "Run",
     "Application.CH47.executor": "Run",
     "Application.CH48.executor": "Run",
     "Application.CH49.executor": "Run",
@@ -138,6 +105,7 @@
     "Application.CH71.executor": "Run",
     "Application.CH72.executor": "Run",
     "Application.CH73.executor": "Run",
+    "Application.CH93.executor": "Run",
     "Application.Courses.executor": "Run",
     "Application.Dice.executor": "Run",
     "Application.Main.executor": "Run",
@@ -524,7 +492,23 @@
       <option name="project" value="LOCAL" />
       <updated>1782681102353</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Files solved in a revised manner.">
+      <option name="closed" value="true" />
+      <created>1782681897623</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1782681897623</updated>
+    </task>
+    <task id="LOCAL-00041" summary="New challenges solved in package form.">
+      <option name="closed" value="true" />
+      <created>1782681946462</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1782681946462</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,8 +538,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="CH52 done" />
-    <MESSAGE value="CH53 done" />
     <MESSAGE value="CH54 done" />
     <MESSAGE value="CH55 done" />
     <MESSAGE value="Update CH55" />
@@ -579,7 +561,9 @@
     <MESSAGE value="CH72 Done" />
     <MESSAGE value="Update ArrayUtility and push it into the utils package" />
     <MESSAGE value="Challenge 51 revised" />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge 51 revised" />
+    <MESSAGE value="Files solved in a revised manner." />
+    <MESSAGE value="New challenges solved in package form." />
+    <option name="LAST_COMMIT_MESSAGE" value="New challenges solved in package form." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
