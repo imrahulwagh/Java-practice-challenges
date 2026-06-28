@@ -1,4 +1,5 @@
 // 50. Create a program to find the sum of two diagonal elements (row and columns should be same )
+import utils.ArrayUtility;
 public class CH50 {
     public static void main(String[] args) {
         System.out.println("Welcome to sum of diagonal elements in 2D array ");

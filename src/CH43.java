@@ -1,5 +1,6 @@
 // 43. Create a program to check if the given array is sorted
 import java.util.Scanner;
+import utils.ArrayUtility;
 public class CH43 {
 
     public static void main(String[] args) {

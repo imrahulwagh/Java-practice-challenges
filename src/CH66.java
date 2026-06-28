@@ -1,19 +1,19 @@
+import utils.ArrayUtility;
+
 // 66. Create a program using continue to sum all positive numbers entered by the
 //user; skip any negative numbers.
-public class CH66 {
-    public static void main(String[] args) {
-        System.out.println("Welcome to adding positive numbers..");
+class PositiveSum {
+    static void main(String[] args) {
+        System.out.println("Welcome to positive number addition");
         int[] arr = ArrayUtility.inputArray();
-        System.out.println("The sum of positive number is "+sumPositive(arr));
-        ArrayUtility.sc.close();
+        System.out.println("The sum of positive numbers from array is "+sumPositive(arr));
     }
-    public static int sumPositive(int[] arr){
-        int sum=0;
-        for(int num:arr){
-            if(num<0){
+    static int sumPositive(int[] arr){
+        int sum = 0;
+        for(int i : arr){
+            if(i<0)
                 continue;
-            }
-            sum +=num;
+            sum += i;
         }
         return sum;
     }

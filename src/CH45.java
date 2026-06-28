@@ -1,5 +1,5 @@
 // 45. Create a program to reverse an array.
-
+import utils.ArrayUtility;
 public class CH45 {
     public static void main(String[] args) {
         System.out.println("Welcome to array reversal ");
@@ -24,7 +24,7 @@ public class CH45 {
             }
         }
         System.out.println("Reverse array is : ");
-        ArrayUtility.displayArray(arr);
+        ArrayUtility.display(arr);
     }
 
 }

@@ -1,4 +1,5 @@
 // 46. Create a program to check is the array is palindrome or not.
+import utils.ArrayUtility;
 public class CH46 {
     public static void main(String[] args) {
         System.out.println("Welcome to array reversal ");

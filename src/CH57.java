@@ -1,18 +1,13 @@
+import utils.ArrayUtility;
+
 // 57. Create a program to print the month of the year based on a
-// number (1-12) input by the user.
-import java.util.Scanner;
-public class CH57 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to Month Generator !");
-        System.out.print("Enter a Month number : ");
-        int num = sc.nextInt();
-        monthGenerator(num);
-        sc.close();
-    }
-    public static void monthGenerator(int monthNumber)
-    {
-        String output = switch(monthNumber){
+//number (1-12) input by the user.
+class MonthPrinter {
+    static void main(String[] args) {
+        System.out.println("Welcome to the month printer ");
+        System.out.print("Enter a number of month : ");
+        int month = ArrayUtility.sc.nextInt();
+        String output = switch(month){
             case 1 -> "January";
             case 2 -> "February";
             case 3 -> "March";
@@ -25,7 +20,7 @@ public class CH57 {
             case 10 -> "October";
             case 11 -> "November";
             case 12 -> "December";
-            default -> "Invalid Month Number";
+            default -> "Invalid month number";
         };
         System.out.println(output);
     }

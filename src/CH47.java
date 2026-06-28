@@ -1,4 +1,5 @@
 // 47. Create a program to merge two sorted arrays.
+import utils.ArrayUtility;
 public class CH47 {
     public static void main(String[] args) {
         System.out.println("Welcome to array merging tool..");
@@ -7,7 +8,7 @@ public class CH47 {
         int[] arr2 = ArrayUtility.inputArray();
         System.out.println("Your merged array is : ");
         int[] mergedArray = mergeArray(arr1,arr2);
-        ArrayUtility.displayArray(mergedArray);
+        ArrayUtility.display(mergedArray);
         ArrayUtility.sc.close();
     }
 

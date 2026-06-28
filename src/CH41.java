@@ -1,3 +1,4 @@
+import utils.ArrayUtility;
 // 41. Create a program to find number of occurrences of an element in an array.
 import java.util.Scanner;
 

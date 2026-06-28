@@ -1,3 +1,4 @@
+import utils.ArrayUtility;
 // 48. Create a program to search an element in a 2-D array.
 public class CH48 {
     public static void main(String[] args) {

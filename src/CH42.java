@@ -1,5 +1,6 @@
 // Create a program to find the maximum and minimum element in an array.
 import java.util.Scanner;
+import utils.ArrayUtility;
 public class CH42 {
     // Maximum from Array
     public static int max(int[] arr)

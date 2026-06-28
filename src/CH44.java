@@ -1,12 +1,13 @@
 // 44. Create a program to return a new array deleting a specific element.
 import java.util.Scanner;
+import utils.ArrayUtility;
 public class CH44 {
     public static void main(String[] args) {
         int[] arr1 = ArrayUtility.inputArray();
         System.out.print("Enter a number to delete By Value : ");
         int value = ArrayUtility.sc.nextInt();
         int[] newArray1 = deleteByValue(arr1,value);
-        ArrayUtility.displayArray(newArray1);
+        ArrayUtility.display(newArray1);
         // System.out.println();
 
 //        int[] arr2 = ArrayUtility.inputArray();

@@ -4,9 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="CH71 Done">
-      <change afterPath="$PROJECT_DIR$/src/CH72.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Challenge 51 revised">
+      <change afterPath="$PROJECT_DIR$/src/CH73.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/ArrayUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/CH41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/CH46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH44.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH53.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH56.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH58.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH59.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH66.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH68.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH71.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CH72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CH72.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,88 +83,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.CH1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH21.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH22.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH23.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH24.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH25.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH27.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH28.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH29.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH30.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH31.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH32.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH33.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH34.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH35.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH36.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH37.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH38.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH39.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH40.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH41.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH42.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH43.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH44.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH47.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH48.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH49.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH50.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH53.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH54.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH55.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH56.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH57.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH58.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH59.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH60.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH61.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH62.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH63.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH64.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH65.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH66.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH67.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH68.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH69.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH71.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CH72.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Courses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Programs/Java/Intellij/Practice/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CH1.executor": "Run",
+    "Application.CH2.executor": "Run",
+    "Application.CH21.executor": "Run",
+    "Application.CH22.executor": "Run",
+    "Application.CH23.executor": "Run",
+    "Application.CH24.executor": "Run",
+    "Application.CH25.executor": "Run",
+    "Application.CH26.executor": "Run",
+    "Application.CH27.executor": "Run",
+    "Application.CH28.executor": "Run",
+    "Application.CH29.executor": "Run",
+    "Application.CH3.executor": "Run",
+    "Application.CH30.executor": "Run",
+    "Application.CH31.executor": "Run",
+    "Application.CH32.executor": "Run",
+    "Application.CH33.executor": "Run",
+    "Application.CH34.executor": "Run",
+    "Application.CH35.executor": "Run",
+    "Application.CH36.executor": "Run",
+    "Application.CH37.executor": "Run",
+    "Application.CH38.executor": "Run",
+    "Application.CH39.executor": "Run",
+    "Application.CH40.executor": "Run",
+    "Application.CH41.executor": "Run",
+    "Application.CH42.executor": "Run",
+    "Application.CH43.executor": "Run",
+    "Application.CH44.executor": "Run",
+    "Application.CH47.executor": "Run",
+    "Application.CH48.executor": "Run",
+    "Application.CH49.executor": "Run",
+    "Application.CH5.executor": "Run",
+    "Application.CH50.executor": "Run",
+    "Application.CH53.executor": "Run",
+    "Application.CH54.executor": "Run",
+    "Application.CH55.executor": "Run",
+    "Application.CH56.executor": "Run",
+    "Application.CH57.executor": "Run",
+    "Application.CH58.executor": "Run",
+    "Application.CH59.executor": "Run",
+    "Application.CH60.executor": "Run",
+    "Application.CH61.executor": "Run",
+    "Application.CH62.executor": "Run",
+    "Application.CH63.executor": "Run",
+    "Application.CH64.executor": "Run",
+    "Application.CH65.executor": "Run",
+    "Application.CH66.executor": "Run",
+    "Application.CH67.executor": "Run",
+    "Application.CH68.executor": "Run",
+    "Application.CH69.executor": "Run",
+    "Application.CH71.executor": "Run",
+    "Application.CH72.executor": "Run",
+    "Application.CH73.executor": "Run",
+    "Application.Courses.executor": "Run",
+    "Application.Dice.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NewGuessingGame.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Programs/Java/Intellij/Practice/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="CH49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CH49" />
-      <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CH50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CH50" />
       <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,6 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CH73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CH73" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Courses" />
       <module name="Practice" />
@@ -159,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CH73" />
+        <item itemvalue="Application.Courses" />
         <item itemvalue="Application.CH49" />
         <item itemvalue="Application.CH58" />
         <item itemvalue="Application.CH53" />
-        <item itemvalue="Application.Courses" />
-        <item itemvalue="Application.CH50" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +500,31 @@
       <option name="project" value="LOCAL" />
       <updated>1776628723562</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="CH72 Done">
+      <option name="closed" value="true" />
+      <created>1776712660873</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1776712660873</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Update ArrayUtility and push it into the utils package">
+      <option name="closed" value="true" />
+      <created>1782681030132</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1782681030132</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Challenge 51 revised">
+      <option name="closed" value="true" />
+      <created>1782681102352</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1782681102353</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,9 +554,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="CH49 Done" />
-    <MESSAGE value="CH done" />
-    <MESSAGE value="CH51 done" />
     <MESSAGE value="CH52 done" />
     <MESSAGE value="CH53 done" />
     <MESSAGE value="CH54 done" />
@@ -518,7 +576,10 @@
     <MESSAGE value="CH69 Done" />
     <MESSAGE value="CH70 Done" />
     <MESSAGE value="CH71 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="CH71 Done" />
+    <MESSAGE value="CH72 Done" />
+    <MESSAGE value="Update ArrayUtility and push it into the utils package" />
+    <MESSAGE value="Challenge 51 revised" />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge 51 revised" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -530,18 +591,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CH48.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CH55.java</url>
           <line>2</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/CH68.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,8 +1,8 @@
 // 59. Create a program using do-while to find password checker until a valid password is entered.
 import java.util.Scanner;
-public class CH59 {
+class PasswordChecker {
     public static void main(String[] args) {
-        Scanner sc =new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int pass = 1234;
         boolean flag = false;
         int maxLimit = 3;
@@ -26,4 +26,3 @@ public class CH59 {
         }while(!flag && maxLimit>0);
     }
 }
-

@@ -1,4 +1,5 @@
 // 49. Create a program to do sum and average of all elements in a 2-D array.
+import utils.ArrayUtility;
 public class CH49 {
     public static void main(String[] args) {
         System.out.println("Welcome to sum and average in 2D elements ");

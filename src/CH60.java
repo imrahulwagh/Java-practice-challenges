@@ -1,22 +1,26 @@
+import utils.ArrayUtility;
+
 // 60. Create a program using do-while to implement a number guessing game.
-import java.util.Scanner;
-public class CH60 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Welcome to the number guessing game..\n");
+class GuessingGame {
+    static void main(String[] args) {
+        System.out.println("Welcome to the number guessing game ");
         int num = (int)(Math.random() * 100) + 1;
-        boolean flag=false;
+        int guess;
+        boolean flag = false;
         do{
             System.out.print("Guess a number : ");
-            int input = sc.nextInt();
-            if(input==num){
-                System.out.println("You won !\nYou guessed the right number..");
-                flag=true;
-            }else if(input>num){
-                System.out.println("Smaller..");
-            }else{
-                System.out.println("Bigger..");
+            guess = ArrayUtility.sc.nextInt();
+            if(num == guess){
+                System.out.println("You have successfully guessed the number..");
+                flag = true;
+            }
+            else if(guess>num){
+                System.out.println("Smaller");
+            }
+            else {
+                System.out.println("Higher");
             }
         }while(!flag);
+
     }
 }

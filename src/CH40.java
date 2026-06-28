@@ -1,4 +1,5 @@
 // 40. Create a program to find the sum and average of all elements in an array.
+import utils.ArrayUtility;
 public class CH40 {
     public static void main(String[] args) {
         int[] arr = ArrayUtility.inputArray();

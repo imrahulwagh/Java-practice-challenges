@@ -1,47 +1,57 @@
-class Courses {
-    static int maxCapacity = 100;
-    String courseName;
-    int enrollments ;
-    String[] enrolledStudents;
+/*
+52. Design a Course class.
+• Instance variables: courseName, enrolledStudents.
+• Static variable: maxCapacity, the maximum number of students for any course.
+• Instance methods: enrollStudent(String studentName),unenrollStudent(String studentName).
+• Static method: setMaxCapacity(int capacity), to set the maximum capacity for courses.
+ */
 
-    Courses(String courseName){
-        this.courseName = courseName;
+class course {
+    static int maxCapacity = 50;
+    String courseName;
+    int enrollments;
+
+    String[] enrolledStudents ;
+
+    course(String courseName){
         this.enrollments = 0;
+        this.courseName = courseName;
         this.enrolledStudents = new String[maxCapacity];
     }
 
-    static void setMaxCapacity(int maxCapacity){
-        Courses.maxCapacity = maxCapacity;
+    static void setMaxCapacity(int capacity){
+        course.maxCapacity = capacity;
     }
 
-    void enrollStudent(String studentName){
-        enrolledStudents[enrollments] = studentName;
-        enrollments++;
+    public void enrollStudent(String studentName){
+        if(enrollments <maxCapacity){
+            System.out.println(studentName+" is successfully enrolled in the course");
+            enrolledStudents[enrollments] = studentName ;
+            enrollments++;
+        }else{
+            System.out.println("Course batch is already full.\n");
+            System.out.println("Try with different course or may be in the next batch.");
+        }
     }
-    void unenrollStudent(String studentName){
-        System.out.println("Student named \""+studentName+"\" is removed..");
+
+    public void unenrollStudent(String studentName){
+        System.out.println(studentName+" is successfully unenrolled");
         enrollments--;
+        System.out.println("Please leave a reason for unenrollment ");
     }
-
-    void displayList(){
-        System.out.println("List of Enrolled Students : ");
-        for(int i=0;i< this.enrollments;i++)
-        {
-            System.out.println((i+1)+" "+this.enrolledStudents[i]);
+    public void displayStudentsList(){
+        for(int i=0;i<=enrollments;i++){
+            System.out.println((i+1)+") "+enrolledStudents[i]);
         }
     }
-    public static void main(String[] args) {
-        Courses java_lang = new Courses("java");
-        java_lang.enrollStudent("Rahul Wagh");
-        java_lang.enrollStudent("Pratik Mahale");
-        java_lang.displayList();
-        System.out.println();
-        System.out.println("Total Enrolled Students : "+java_lang.enrollments);
-        if(java_lang.enrollments == Courses.maxCapacity){
-            Courses.maxCapacity += 100;
-        }
-        System.out.println(maxCapacity);
-        java_lang.unenrollStudent("Rahul Wagh");
+    public static void main(String[] args){
+        course python = new course("Python");
+        System.out.println("Course Name : "+python.courseName);
+        python.enrollStudent("Rahul Wagh");
+        python.enrollStudent("Bhavesh Wagh");
+        //System.out.println(python.enrollments);
+        python.unenrollStudent("Rahul Wagh");
+        //System.out.println(python.enrollments);
+        python.displayStudentsList();
     }
-
 }

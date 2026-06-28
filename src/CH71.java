@@ -1,13 +1,16 @@
-// 71. Concatenate and Convert: Take two strings, concatenate them,
-//and convert the result to uppercase.
-public class CH71 {
-    public static void main(String[] args) {
-        System.out.print("Enter first string : ");
-        String str1 = ArrayUtility.sc.next();
-        System.out.print("Enter second string : ");
-        String str2 = ArrayUtility.sc.next();
+import utils.ArrayUtility;
 
-        String str3 = str1.concat(" ").concat(str2);
-        System.out.println("\n"+str3.toUpperCase());
+// 71. Concatenate and Convert: Take two strings, concatenate them,
+//and convert the result to uppercase
+class StringConcat {
+    static void main(String[] args) {
+        System.out.println("Welcome to he string operations ");
+        System.out.print("Enter first name : ");
+        String firstName = ArrayUtility.sc.next();
+        System.out.print("Enter last name : ");
+        String lastName = ArrayUtility.sc.next();
+        String fullName = firstName.concat(" ").concat(lastName);
+        fullName = fullName.toUpperCase();
+        System.out.println("Your full name is "+fullName);
     }
 }
