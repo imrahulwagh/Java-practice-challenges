@@ -1,13 +1,16 @@
 // ///////////////////////////////////////////////////////////////////
 //
-//  Function name : reverseList
-//  Input :         List
-//  Output :        List
-//  Description :   Accepts a list and uses reverseList
-//                  function to reverse the list using the
-//                  swapping logic used in previous challenge.
-//  Date :          29/05/2026
-//  Author :        Rahul Vilas Wagh
+//  Problem Statement : Create a program that reverses the
+//                      elements of a List and prints the
+//                      reversed list.
+//  Function name :     reverseList
+//  Input :             List
+//  Output :            List
+//  Description :       Accepts a list and uses reverseList
+//                      function to reverse the list using the
+//                      swapping logic used in previous challenge.
+//  Date :              29/05/2026
+//  Author :            Rahul Vilas Wagh
 //
 // ///////////////////////////////////////////////////////////////////
 
