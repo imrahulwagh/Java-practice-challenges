@@ -16,7 +16,7 @@
 
 import java.util.Arrays;
 import java.util.List;
-class CH93 {
+class ListReversal {
     public static void main(String[] args) {
         List<Integer> numList = Arrays.asList(11,22,33,44,55);
         System.out.println("Before reversal..");
