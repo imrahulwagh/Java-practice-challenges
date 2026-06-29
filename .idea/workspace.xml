@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Challenge 94 done.">
-      <change afterPath="$PROJECT_DIR$/src/CH95.java" afterDir="false" />
+    <list default="true" id="f9f2d5d0-74eb-44b1-832d-a156d854f251" name="Changes" comment="Challenge 95 done.">
+      <change afterPath="$PROJECT_DIR$/src/CH96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH96/Day.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CH96/EnumTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -110,6 +113,7 @@
     "Application.CH95.executor": "Run",
     "Application.Courses.executor": "Run",
     "Application.Dice.executor": "Run",
+    "Application.EnumTest.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.NewGuessingGame.executor": "Run",
     "Application.Student.executor": "Run",
@@ -543,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782756754200</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Challenge 95 done.">
+      <option name="closed" value="true" />
+      <created>1782757824865</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1782757824865</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -573,7 +585,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="CH56 done" />
     <MESSAGE value="CH57 done" />
     <MESSAGE value="CH58 done" />
     <MESSAGE value="CH58 updated" />
@@ -598,7 +609,8 @@
     <MESSAGE value="Challenge 93 done" />
     <MESSAGE value="Updated Challenge 93." />
     <MESSAGE value="Challenge 94 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Challenge 94 done." />
+    <MESSAGE value="Challenge 95 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Challenge 95 done." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
